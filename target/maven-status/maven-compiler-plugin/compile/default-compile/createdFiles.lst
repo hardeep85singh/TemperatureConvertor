@@ -1,0 +1,4 @@
+com/temperatureConvertor/rest/ConvertorRestApplication.class
+com/temperatureConvertor/app/ConvertorApplication.class
+com/temperatureConvertor/service/TemperatureConvertorImp.class
+com/temperatureConvertor/service/TemperatureConvertor.class
