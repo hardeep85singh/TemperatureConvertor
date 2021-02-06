@@ -7,7 +7,7 @@ import javax.ws.rs.core.Application;
 import java.util.HashSet;
 import java.util.Set;
 
-@ApplicationPath("rest")
+@ApplicationPath("/rest")
 public class ConvertorApplication extends Application {
     private Set<Object> singletons = new HashSet<>();
 
